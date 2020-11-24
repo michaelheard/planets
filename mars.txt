@@ -1,0 +1,49 @@
+2058 10.194.207.0 10.194.207.1 MC-USER-VRF 255.255.255.128 Rupel Jones Hall-User-PRIV
+ 
+Static IP’s – 10.194.207.5-14
+Known Pool – 10.194.207.25-115
+Unknown Pool – 10.194.207.121-126
+ 
+DHCP SERVER – 10.254.254.13
+DNS: 10.195.13.12 10.193.114.12
+
+
+VLAN:   2058
+DESC:   Rupel Jones Hall-MC-USER-VRF
+NOTES:  Rupel Jones Hall-User-PRIV
+SUBNET: 10.194.207.0   NETMASK: 255.255.255.224   BROADCAST: 10.194.207.127   ROUTER: 10.194.207.1
+STATUS: Online   TYPE: netreg   DHCPSYSTEM: <VERIFY>   LEASETIME: 86400
+DNS: 10.195.13.12, 10.193.114.12   NETBIOS: 10.0.252.10, 10.0.252.11   DOMAIN: NULL
+| 775 | Known   | 10.194.207.25  | 10.194.207.238 |         NULL | NULL            |
+| 776 | Unknown | 10.194.207.239 | 10.194.207.254 |         NULL | NULL            |. NOTE: ß-- This was an presumptive alteration of the original request.
+----------------------------------------------------------------------------------------
+
+2059 10.194.207.128 10.194.207.129 MC-USER-VRF 255.255.255.128 Carpenter Hall-User-PRIV
+ 
+Static IP’s – 10.194.207.133-142
+Known Pool – 10.194.207.152-238
+Unknown Pool – 10.194.207.239-254
+ 
+DHCP SERVER – 10.254.254.13
+DNS: 10.195.13.12 10.193.114.12
+
+
+VLAN:   2059
+DESC:   Carpenter Hall-MC-USER-VRF
+NOTES:  Carpenter Hall-User-PRIV
+SUBNET: 10.194.207.128   NETMASK: 255.255.255.224   BROADCAST: 10.194.207.255   ROUTER: 10.194.207.129
+STATUS: Online   TYPE: netreg   DHCPSYSTEM: <VERIFY>   LEASETIME: 86400
+DNS: 10.195.13.12, 10.193.114.12   NETBIOS: 10.0.252.10, 10.0.252.11   DOMAIN: NULL
+| 775 | Known   | 10.194.207.139  | 10.194.207.152 |         NULL | NULL            |
+| 776 | Unknown | 10.194.207.153 | 10.194.207.254 |         NULL | NULL            |. NOTE: ß-- This was an presumptive alteration of the original request.
+----------------------------------------------------------------------------------------
+
+2098 10.194.255.128 10.194.255.129 MC-USER-VRF 255.255.255.128 Jacobson Hall-User-PRIV
+ 
+Static IP’s – 10.194.255.133-142
+Known Pool – 10.194.255.152-238
+Unknown Pool – 10.194.255.239-254
+ 
+DHCP SERVER – 10.254.254.13
+DNS: 10.195.13.12 10.193.114.12
+----------------------------------------------------------------------------------------
